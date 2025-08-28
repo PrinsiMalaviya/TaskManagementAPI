@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|c:\\prinsi\\project\\simplecrudapi\\simplecrudapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|solutionrelative:simplecrudapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|c:\\prinsi\\project\\simplecrudapi\\simplecrudapi\\db_class\\taskmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|solutionrelative:simplecrudapi\\db_class\\taskmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|c:\\prinsi\\project\\simplecrudapi\\simplecrudapi\\entities\\task_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|solutionrelative:simplecrudapi\\entities\\task_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|c:\\prinsi\\project\\simplecrudapi\\simplecrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B01A8C3-767B-4A83-850E-DD9234F68C4B}|SimpleCRUDAPI\\SimpleCRUDAPI.csproj|solutionrelative:simplecrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "SimpleCRUDAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:07:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagementdb.cs",
+              "DocumentMoniker": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\DB_Class\\TaskManagementdb.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDAPI\\DB_Class\\TaskManagementdb.cs",
+              "ToolTip": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\DB_Class\\TaskManagementdb.cs",
+              "RelativeToolTip": "SimpleCRUDAPI\\DB_Class\\TaskManagementdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:07:19.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task_model.cs",
+              "DocumentMoniker": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\Entities\\task_model.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDAPI\\Entities\\task_model.cs",
+              "ToolTip": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\Entities\\task_model.cs",
+              "RelativeToolTip": "SimpleCRUDAPI\\Entities\\task_model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:07:02.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDAPI\\Program.cs",
+              "ToolTip": "C:\\PRINSI\\PROJECT\\SimpleCRUDAPI\\SimpleCRUDAPI\\Program.cs",
+              "RelativeToolTip": "SimpleCRUDAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:06:44.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
